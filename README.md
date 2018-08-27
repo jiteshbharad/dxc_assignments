@@ -1,1 +1,1 @@
-bye bye sir
+bubye gn sd tc
