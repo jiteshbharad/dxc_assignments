@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.dxc</groupId>
     <artifactId>rest1</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>war</packaging>
     <name>Simple CXF Java-first SOAP project using Spring configuration</name>
     <description>Simple CXF Java-first SOAP project using Spring configuration</description>
